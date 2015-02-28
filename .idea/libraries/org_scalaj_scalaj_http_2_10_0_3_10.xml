@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.scalaj:scalaj-http_2.10:0.3.10" type="repository">
+    <properties maven-id="org.scalaj:scalaj-http_2.10:0.3.10" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalaj/scalaj-http_2.10/0.3.10/scalaj-http_2.10-0.3.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
